@@ -8,6 +8,7 @@
 ![Diagrama](/assets/images/Diagrama.png)
 
 classDiagram
+
     class ReprodutorMusical {
         +exemploMetodo1()
         +exemploMetodo2(String exemplo)
